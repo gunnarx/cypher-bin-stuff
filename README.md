@@ -1,5 +1,7 @@
 # NOTE: 
-Please refer to TBD for details on the fork
+
+Please refer to [18ccd770](https://github.com/gunnarx/cypher-bin-stuff/commit/18ccd770) for details
+
 ----
 
 Original text:
